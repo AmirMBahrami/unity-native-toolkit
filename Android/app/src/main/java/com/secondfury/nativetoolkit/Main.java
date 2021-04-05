@@ -1,4 +1,4 @@
-package com.secondfury.nativetoolkit;
+package com.amirsecondfury.nativetoolkit;
 
 import java.io.IOException;
 import java.util.Locale;
